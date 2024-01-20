@@ -1,0 +1,12 @@
+.search-container {
+    margin-top: 20px;
+}
+
+.form-control {
+    border-radius: 5px;
+    /* Optional: Set border-radius to 0 for squared edges */
+}
+
+.navbar {
+    background-color: #041E42;
+}
