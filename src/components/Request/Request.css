@@ -16,6 +16,7 @@ form {
     justify-content: center;
     margin-bottom: 20px;
     margin-top: 20px;
+
 }
 
 .form-floating {
@@ -57,4 +58,15 @@ form {
 .mainContainer {
     margin-left: 50px;
     margin-right: 50px;
+}
+
+.likeBtn {
+    display: flex;
+    justify-content: end;
+
+}
+
+.likeCount {
+    display: flex;
+    flex-direction: column;
 }

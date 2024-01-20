@@ -35,7 +35,7 @@ const Navbar = () => {
                     </ul>
                     <div class="d-flex" role="search">
                         <input class="form-control me-2 " type="search" placeholder="Search" aria-label="Search" />
-                        <button type="button" class="btn btn-outline-success">Success</button>
+                        <button type="button" class="btn btn-outline-success">Search</button>
                     </div>
                 </div>
             </div>
